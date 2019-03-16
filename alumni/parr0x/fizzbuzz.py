@@ -1,11 +1,6 @@
 
 def is_divisible(number: int, divisor: int) -> bool:
-    """
-    Compueba si el numero es divisible
-    :param number:
-    :param divisor:
-    :return:
-    """
+
     return number % divisor == 0
 
 
