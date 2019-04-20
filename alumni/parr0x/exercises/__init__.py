@@ -1,0 +1,3 @@
+print('This module will contain the course exercises')
+"from .fizzbuzz import fizzbuzz"
+def f(): ...

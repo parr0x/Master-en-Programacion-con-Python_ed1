@@ -1,10 +1,12 @@
+print(f'The name of fizzbuzz.py is {__name__}')
+
 
 def is_divisible(number: int, divisor: int) -> bool:
     """
-    Compueba si el numero es divisible
-    :param number:
-    :param divisor:
-    :return:
+Compueba si el numero es divisible
+:param number:
+:param divisor:
+:return:
     """
     return number % divisor == 0
 
